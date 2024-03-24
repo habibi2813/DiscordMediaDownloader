@@ -7,7 +7,7 @@ Bot that can download all media sent in a Discord channel (It's not a self bot)
 
 ## Requirements
 ```sh
-pip install discord discord
+pip install discord aiohttp
 ```
 ## Thanks for using this tool
 If you used this tool to troll someone or something, then i would appreciate if you wuold star this project,
